@@ -1,0 +1,20 @@
+.navbar-header {
+    height: 70px;
+}
+
+.navbar-default {
+    background-color: #222222;
+    border-color: #121212;
+    height: 70px;
+}
+
+.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 70px;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+    max-height: 100%;
+}
