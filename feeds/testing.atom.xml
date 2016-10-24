@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>tiff files</title><link href="http://blog.tiffanyrwilliams.com/" rel="alternate"></link><link href="http://blog.tiffanyrwilliams.com/feeds/testing.atom.xml" rel="self"></link><id>http://blog.tiffanyrwilliams.com/</id><updated>2016-10-23T10:20:00-07:00</updated><entry><title>Test First Post</title><link href="http://blog.tiffanyrwilliams.com/my-first-post.html" rel="alternate"></link><published>2016-10-23T10:20:00-07:00</published><updated>2016-10-23T10:20:00-07:00</updated><author><name>Tiffany</name></author><id>tag:blog.tiffanyrwilliams.com,2016-10-23:my-first-post.html</id><summary type="html">&lt;p&gt;This is a test post.&lt;/p&gt;
+&lt;p&gt;There are two ways to specify the identifier:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;The triple-colon syntax will *not* show line numbers.&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;To display line numbers, use a path-less shebang instead of colons:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;The path-less shebang syntax *will* show line numbers.&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
