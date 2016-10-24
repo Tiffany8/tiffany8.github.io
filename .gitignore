@@ -7,6 +7,5 @@ pelican-themes
 gnupg/gpg.conf
 gnupg/pubring.gpg
 gnupg/secring.gpg
-images/
 *.pyc
 wrun.sh
